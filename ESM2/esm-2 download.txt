@@ -1,0 +1,8 @@
+Download the esm2_t12_35M_UR50D used in this study from the ESM official project: https://github.com/facebookresearch/esm 
+the files you need include: 
+config.json
+esm2_t12_35M_UR50D.pt
+esm2_t12_35M_UR50D-contact-regression.pt
+model_index.json
+tokenizer_config.json
+vocab.txt
