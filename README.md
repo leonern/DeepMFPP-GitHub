@@ -1,4 +1,4 @@
-# DeepPD
+# DeepMFPP
 Multi-Functional Peptides Prediction Based on Data Augmentation and Contrastive Learning
 
 ## Introduction
