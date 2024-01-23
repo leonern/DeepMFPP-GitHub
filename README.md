@@ -17,6 +17,8 @@ peptide representations conducive to MFPs prediction.
 and subsequently enhanced the MFPs prediction accuracy.
 - Web server for MFPs prediction: https://huggingface.co/spaces/xiaoleon/DeepMFPP-hf.
 
+![The framework of DeepMFPP](pictures/The framework of DeepMFPP.png)
+
 ## Description of relevant files
 |Files name      |Description |
 |----------------|------------|
